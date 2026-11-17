@@ -1,8 +1,6 @@
 # 💫 About Me:
 I love developing myself and discovering new things and I strive to discover what is best through my love for my hobby expanding my knowledge and building new things in a different way This is what made me give my best in focusing on my projects and considering them as a hobby.
 
-
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jan.Mon95) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/firstonegenta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-janine-177b2b343) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mstr.jaie) 
 
 # 💻 Tech Stack:
